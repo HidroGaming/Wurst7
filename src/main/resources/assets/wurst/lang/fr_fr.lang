@@ -2,7 +2,7 @@
   "description.wurst.hack.anchoraura": "Place automatiquement (optionek), charge, et fait exploser des ancre de réapparition pour tuer les entités à coté.",
   "description.wurst.hack.antiafk": "Marche aléatoirement pour te cacher de détécteur d'AFK.\nA besoin d'une zone minimum de 3x3 blocks.",
   "description.wurst.hack.antiblind": "Enlève la cécité.\nIncompatible avec OptiFine.",
-  "description.wurst.hack.anticactus": "Protects you from cactus damage.",
+  "description.wurst.hack.anticactus": "Protège des dégats des cactus.",
   "description.wurst.hack.antiknockback": "Prevents you from getting pushed by players and mobs.",
   "description.wurst.hack.antispam": "Blocks chat spam by adding a counter to repeated messages.",
   "description.wurst.hack.antiwaterpush": "Prevents you from getting pushed by water.",
